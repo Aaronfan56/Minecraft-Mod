@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "With with this you will not get the Minectaft Texture Pack because it is different.",
+        "name": "Custom Items",
+        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165841",
+        "version": [0, 0, 3],
+        "min_engine_version": [ 1, 20, 10 ]
+    },
+    "modules": [
+        {
+            "description": "With with this you will not get the Minectaft Texture Pack because it is different.",
+            "type": "resources",
+            "uuid": "743f6949-53be-44b6-b326-398005028838",
+            "version": [0, 0, 3]
+        }
+    ]
+}
